@@ -1,0 +1,12 @@
+SEC
+ 102
+ MAXIMUM PRINCIPAL LOAN OBLIGATION
+    Paragraph (2) of section 203(b)(2) of the National Housing Act (12 U
+S
+C
+ 1709(b)(2)) is amended--            (1) by amending subparagraphs (A) and (B) to read as         follows:                    ``(A) not to exceed the lesser of--                            ``(i) in the case of a 1-family residence,                         the median 1-family house price in the area, as                         determined by the Secretary; and in the case of                         a 2-, 3-, or 4-family residence, the percentage                         of such median price that bears the same ratio                         to such median price as the dollar amount                         limitation in effect under section 305(a)(2) of                         the Federal Home Loan Mortgage Corporation Act                         (12 U
+S
+C
+ 1454(a)(2)) for a 2-, 3-, or 4-                        family residence, respectively, bears to the                         dollar amount limitation in effect under such                         section for a 1-family residence; or                            ``(ii) the dollar amount limitation                         determined under such section 305(a)(2) for a                         residence of the applicable size;                except that the dollar amount limitation in effect for                 any area under this subparagraph may not be less than                 the greater of (I) the dollar amount limitation in                 effect under this section for the area on October 21,                 1998, or (II) 65 percent of the dollar limitation                 determined under such section 305(a)(2) for a residence                 of the applicable size; and                    ``(B) not to exceed 100 percent of the appraised                 value of the property
+''; and            (2) in the matter following subparagraph (B), by striking         the second sentence (relating to a definition of ``average         closing cost'') and all that follows through ``section 3103A(d)         of title 38, United States Code
+''
